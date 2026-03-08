@@ -3851,3 +3851,10 @@ Entries:
   id: 453
   time: '2026-03-08T08:58:33.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1104
+- author: GeneRickUsername
+  changes:
+  - type: Tweak
+    message: Fixed some knowledge shitcode.
+  id: 454
+  time: '2026-03-08T09:03:02.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1101
