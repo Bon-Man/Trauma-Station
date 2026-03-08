@@ -3875,3 +3875,10 @@ Entries:
   id: 455
   time: '2026-03-08T12:02:15.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/961
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Skill profiles were partially reset, you may need to update your skills.
+  id: 456
+  time: '2026-03-08T14:53:49.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1111
