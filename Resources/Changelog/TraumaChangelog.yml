@@ -3974,3 +3974,12 @@ Entries:
   id: 468
   time: '2026-03-09T09:06:35.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1146
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Materials and tiles no longer have quality, so they can properly stack
+      again.
+  id: 469
+  time: '2026-03-09T09:23:54.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1152
