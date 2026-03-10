@@ -4100,3 +4100,12 @@ Entries:
   id: 483
   time: '2026-03-10T08:25:58.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1177
+- author: deltanedas
+  changes:
+  - type: Add
+    message: >-
+      Pressing Z with steel now lets you quickly make rods or tiles with a
+      radial menu.
+  id: 484
+  time: '2026-03-10T08:32:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/974
