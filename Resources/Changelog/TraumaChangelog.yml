@@ -4204,3 +4204,12 @@ Entries:
   id: 495
   time: '2026-03-12T10:05:11.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1024
+- author: deltanedas
+  changes:
+  - type: Add
+    message: >-
+      Added skill chips basically from ss13, they store your skills and can be
+      swapped via surgery. This is what stores your job skills now.
+  id: 496
+  time: '2026-03-12T10:17:05.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1199
