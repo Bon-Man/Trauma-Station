@@ -4378,3 +4378,10 @@ Entries:
   id: 514
   time: '2026-03-14T00:09:14.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1266
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Fixed heretic rituals disappearing on disconnect
+  id: 515
+  time: '2026-03-14T01:43:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1268
