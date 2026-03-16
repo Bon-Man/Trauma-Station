@@ -4631,3 +4631,10 @@ Entries:
   id: 543
   time: '2026-03-16T08:41:25.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1346
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed secret having double the events that it should have.
+  id: 544
+  time: '2026-03-16T09:14:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1350
