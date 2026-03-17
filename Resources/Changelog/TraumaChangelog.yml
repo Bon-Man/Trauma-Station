@@ -4720,3 +4720,10 @@ Entries:
   id: 554
   time: '2026-03-17T09:36:23.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1378
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Scifab can now print medical scanner boards for expanding genetics.
+  id: 555
+  time: '2026-03-17T11:50:01.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1373
