@@ -4727,3 +4727,14 @@ Entries:
   id: 555
   time: '2026-03-17T11:50:01.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1373
+- author: JohnJJohn
+  changes:
+  - type: Fix
+    message: Fixed footprints being rotated wrong
+  - type: Tweak
+    message: >-
+      There should be interesting station ambience playing now instead of a low
+      hum
+  id: 556
+  time: '2026-03-17T14:08:30.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1375
