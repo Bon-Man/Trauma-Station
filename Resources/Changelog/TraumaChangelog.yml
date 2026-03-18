@@ -4838,3 +4838,12 @@ Entries:
   id: 568
   time: '2026-03-18T09:45:23.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1413
+- author: NoElkaTheGod
+  changes:
+  - type: Tweak
+    message: Buffed laser sniper
+  - type: Tweak
+    message: slightly buffed laser LMG
+  id: 569
+  time: '2026-03-18T09:51:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1406
