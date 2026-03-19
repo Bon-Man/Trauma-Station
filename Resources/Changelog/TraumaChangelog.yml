@@ -4931,3 +4931,15 @@ Entries:
   id: 579
   time: '2026-03-19T10:44:21.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1435
+- author: TurboTrackerss14
+  changes:
+  - type: Add
+    message: 'Chaplain Venerator Armor '
+  - type: Add
+    message: >-
+      Chaplain Crossbow Nullrod form, 50 holy per shot, 10s pray recharge. It
+      can be attained by changing altars with an improvised bow then applying
+      your nullrod.
+  id: 580
+  time: '2026-03-19T11:41:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1220
