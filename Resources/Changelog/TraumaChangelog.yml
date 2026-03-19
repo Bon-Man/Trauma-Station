@@ -4952,3 +4952,10 @@ Entries:
   id: 581
   time: '2026-03-19T15:32:53.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1439
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Skillchips can now rarely malfunction when hit by an EMP.
+  id: 582
+  time: '2026-03-19T16:37:17.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1441
