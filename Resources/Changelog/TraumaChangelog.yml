@@ -4989,3 +4989,16 @@ Entries:
   id: 586
   time: '2026-03-20T06:58:09.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1454
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Reworked footprints so they don't cause any lag, using decals instead of
+      basically puddles.
+  - type: Tweak
+    message: >-
+      Mops removing decals like footprints is now instant, just like mopping up
+      puddles.
+  id: 587
+  time: '2026-03-20T08:19:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1461
