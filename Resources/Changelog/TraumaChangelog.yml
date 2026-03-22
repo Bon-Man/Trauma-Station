@@ -5203,3 +5203,10 @@ Entries:
   id: 612
   time: '2026-03-22T10:44:43.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1522
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed strength knowledge not working.
+  id: 613
+  time: '2026-03-22T11:26:58.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1525
