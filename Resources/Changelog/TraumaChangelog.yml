@@ -5261,3 +5261,10 @@ Entries:
   id: 620
   time: '2026-03-23T08:08:10.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1538
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed robots having genes...
+  id: 621
+  time: '2026-03-23T08:26:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1541
