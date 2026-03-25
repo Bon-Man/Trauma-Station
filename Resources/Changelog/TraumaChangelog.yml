@@ -5420,3 +5420,12 @@ Entries:
   id: 635
   time: '2026-03-25T17:05:47.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1571
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Removed shock damage from your skillchip being EMP'd, now it only disables
+      the skills.
+  id: 636
+  time: '2026-03-25T18:39:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1574
