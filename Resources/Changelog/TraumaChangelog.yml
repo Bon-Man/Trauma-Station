@@ -5403,3 +5403,13 @@ Entries:
   id: 633
   time: '2026-03-25T11:11:53.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1569
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      The highpop job roles shitcode thing was replaced by a better system that
+      works regardless of map, which now also adds unlimited service workers and
+      janitors.
+  id: 634
+  time: '2026-03-25T15:01:27.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1570
