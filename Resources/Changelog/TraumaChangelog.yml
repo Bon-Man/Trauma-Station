@@ -5413,3 +5413,10 @@ Entries:
   id: 634
   time: '2026-03-25T15:01:27.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/1570
+- author: momoyawn
+  changes:
+  - type: Fix
+    message: Kinetic Machete can now parry
+  id: 635
+  time: '2026-03-25T17:05:47.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/1571
