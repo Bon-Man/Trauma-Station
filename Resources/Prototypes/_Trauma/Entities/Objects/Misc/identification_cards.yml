@@ -22,3 +22,28 @@
       sprite: _Trauma/Objects/Misc/id_cards.rsi
   - type: PresetIdCard
     job: PhoneMerchant
+
+- type: entity
+  parent: IDCardStandard
+  id: DClassIDCard
+  name: D-class ID card
+  description: A Generically printed ID card for the lowest of the low
+  components:
+  - type: Sprite
+    layers:
+    - state: orange
+  - type: Item
+    heldPrefix: orange
+  - type: Access
+  - type: IdCard
+    jobTitle: job-name-d-class
+    jobIcon: JobiconDClass
+    canMicrowave: false
+  - type: Tag
+    tags:
+    - DoorBumpOpener
+    - Whitelist Chameleon
+    - Whitelist ChameleonidCard
+    - Recyclable
+  - type: StaticPrice
+    price: 0
