@@ -14,7 +14,6 @@
   parent: IDCardStandard
   id: PhoneMerchantIDCard
   name: phone merchant ID card
-  
   components:
   - type: Sprite
     layers:
@@ -23,6 +22,7 @@
       sprite: _Trauma/Objects/Misc/id_cards.rsi
   - type: PresetIdCard
     job: PhoneMerchant
+    
 - type: entity
   parent: IDCardStandard
   id: DClassIDCard
