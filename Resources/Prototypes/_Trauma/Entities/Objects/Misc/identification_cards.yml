@@ -14,6 +14,7 @@
   parent: IDCardStandard
   id: PhoneMerchantIDCard
   name: phone merchant ID card
+  
   components:
   - type: Sprite
     layers:
