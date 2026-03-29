@@ -6,7 +6,7 @@
     state: Phonemerchant
   jobName: job-name-phonemerchant
   allowSelection: false
-  
+
 - type: jobIcon
   parent: JobIcon
   id: JobIconDClass
